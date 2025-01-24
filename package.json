@@ -1,7 +1,7 @@
 {
-  "name": "minimal-koa-express-graphiql-boilerplate",
+  "name": "minimal-express-graphiql-boilerplate",
   "version": "1.0.0",
-  "description": "a minimal boilerplate with koa, graphql and express",
+  "description": "a minimal boilerplate with graphql and express",
   "main": "index.js",
   "type": "module",
   "scripts": {
